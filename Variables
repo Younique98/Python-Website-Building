@@ -1,0 +1,6 @@
+price = 10
+rating = 24.9
+name = 'Erica'
+is_published = False
+
+print(price)
